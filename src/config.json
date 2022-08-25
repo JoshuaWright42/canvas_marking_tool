@@ -1,5 +1,6 @@
 {
     "API_URL" : "https://swinburne.instructure.com/",
-    "API_KEY" : "your API key goes here",
-    "COURSE_ID" : 44776
+    "API_KEY" : "YOUR API KEY",
+    "COURSE_ID" : 44776,
+    "VALID_EXTENSTIONS" : ["pdf", "cs", "docx", "png", "jpeg", "jpg", "bmp"]
 }
