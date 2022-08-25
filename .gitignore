@@ -3,3 +3,6 @@ __pycache__/
 
 marking.csv
 .DS_Store
+src/config.json
+temp/
+downloads/
